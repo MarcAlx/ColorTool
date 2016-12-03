@@ -3,7 +3,7 @@ A simple RGB to Hex GUI made with Python3 (tkinter)
 
 ## Screenshot
 
-![ui](screenshots/colortool1.png "ui")
+![ui](screenshots/colourtool1.png "ui")
 
 ## Possible improvements
  - Add Hex to RGB converion
